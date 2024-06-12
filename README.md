@@ -1,4 +1,5 @@
 # Projects
+## About me
 Hello! I'm Alex Koseki. Nice to meet you!
 
 I'm a Japanese that was born in Brazil, and now live in the UK.
@@ -12,24 +13,24 @@ My previous roles required working in high-throughput environments where optimiz
 
 I've got exceptional ability to quickly adapt to new environments, understand company requirements, and efficiently integrate into existing codebases. I am confident in my ability to tackle tasks independently, given the codebase and necessary documentation.
 
-
+<hr>
 This page is a hub for my Projects, a bit about me, as well as hosting some files.
 
 Currently there isn't much, but I plan to add a lot more here.
 
 ## Links
-My LinkedIn:
+My LinkedIn:<br/>
 https://www.linkedin.com/in/akoseki
 
-My CV (With my address and phone removed because it's public):
-PDF: https://github.com/AKoseki/Projects/blob/main/host/docs/Alex%20Koseki%20Curriculum%20Private.pdf
-DOCX: https://github.com/AKoseki/Projects/blob/main/host/docs/Alex%20Koseki%20Curriculum%20Private.docx
+My CV (With my address and phone removed because it's public):<br/>
+[.pdf](https://github.com/AKoseki/Projects/blob/main/host/docs/Alex%20Koseki%20Curriculum%20Private.pdf)<br/>
+[.docx](https://github.com/AKoseki/Projects/blob/main/host/docs/Alex%20Koseki%20Curriculum%20Private.docx)
+<p/>
 
-
-Here's some of my public projects on github:
+## Public projects on github:
 
 ### PHP 4.4.9 compiled with OpenSSL 3.2 and Apache 2.4, running on Docker.
-https://github.com/AKoseki/php-4.4.9_docker - Keywords: PHP4, OpenSSL, Apache, Docker
+https://github.com/AKoseki/php-4.4.9_docker - Keywords: PHP4, OpenSSL3, Apache2, Docker
 
 
 
