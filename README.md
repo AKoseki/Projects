@@ -19,10 +19,11 @@ Currently there isn't much, but I plan to add a lot more here.
 
 ## Links
 My LinkedIn:
-https://www.linkedin.com/in/akoseki/en
+https://www.linkedin.com/in/akoseki
 
 My CV (With my address and phone removed because it's public):
-
+PDF: https://github.com/AKoseki/Projects/blob/main/host/docs/Alex%20Koseki%20Curriculum%20Private.pdf
+DOCX: https://github.com/AKoseki/Projects/blob/main/host/docs/Alex%20Koseki%20Curriculum%20Private.docx
 
 
 Here's some of my public projects on github:
