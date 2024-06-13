@@ -9,9 +9,11 @@ My career has been diverse within the IT area, working with first to third level
 I also have experience as a Business Analyst, where I identified areas for improvement within the company and gained a commercial perspective on the business.
 On that same company, as a result of my high performance, I was promoted to Software Analyst, where my proactive approach led to significant achievements, such as preventing a bottleneck during Black Friday on an e-commerce website by scaling servers and identifying a critical bug, which I fixed and deployed before the event.
 
-My previous roles required working in high-throughput environments where optimized code, documentation, quality, and testing were crucial. I am well-versed in Kanban, Agile, and CI/CD methodologies.
+My previous roles required working in high-throughput environments where optimized code, documentation, quality, and testing were crucial. I am well-versed in Kanban, Agile, Scrum, and CI/CD methodologies.
 
 I've got exceptional ability to quickly adapt to new environments, understand company requirements, and efficiently integrate into existing codebases. I am confident in my ability to tackle tasks independently, given the codebase and necessary documentation.
+
+PHP, HTML, Javascript, CSS, MySQL, Ajax, AWS, Oracle Cloud, API, Restful APIs, Linux, Git, Bash, Testing, Docker, OOP, Apache, NGINX, Perl, Python, New Relic, Zabbix
 
 <hr>
 This page is a hub for my Projects, a bit about me, as well as hosting some files.
