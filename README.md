@@ -13,6 +13,7 @@ My previous roles required working in high-throughput environments where optimiz
 
 I've got exceptional ability to quickly adapt to new environments, understand company requirements, and efficiently integrate into existing codebases. I am confident in my ability to tackle tasks independently, given the codebase and necessary documentation.
 
+Some of my skills:<br/>
 PHP, HTML, Javascript, CSS, MySQL, Ajax, AWS, Oracle Cloud, API, Restful APIs, Linux, Git, Bash, Testing, Docker, OOP, Apache, NGINX, Perl, Python, New Relic, Zabbix
 
 <hr>
