@@ -18,8 +18,9 @@ My CV (With my address and phone removed because it's public):<br/>
 https://github.com/AKoseki/php-4.4.9_docker - Keywords: PHP4, OpenSSL3, Apache2, Docker
 
 On the works:<br/>
-Laravel Shop, with Jenkins for building and testing, and with github actions for auto-deploying.
-
+Laravel Shop, with RabbitMQ, Redis, MongoDB, Nginx, Memcached, Mysql, fully containerized with Docker, and Jenkins for building, testing and deploying, and with github actions as an alternative.
+<br/>Objective:<br/>
+To properly learn Laravel, RabbitMQ, Redis, MongoDB, Nginx, Memcached, Jenkins
 <hr>
 
 ## About me
